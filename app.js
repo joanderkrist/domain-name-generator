@@ -1,6 +1,6 @@
-let pronoun = ["the", "our"];
-let adjs = ["great", "big"];
-let noun = ["jogger", "racoon"];
+let pronoun = ["el", "nuestro"];
+let adjs = ["buen", "gran"];
+let noun = ["jugador", "partido"];
 let dom = [".com", ".es", ".net"]
 
 for (let index = 0; index < pronoun.length; index++) {
